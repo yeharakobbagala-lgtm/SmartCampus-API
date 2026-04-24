@@ -1,5 +1,5 @@
 🏫 SmartCampus RESTful API
-University of Westminster | Computer Science Student Name: [Your Name]
+University of Westminster | Computer Science Student Name: yehara kobbegala
 
 Level: Year 2
 
